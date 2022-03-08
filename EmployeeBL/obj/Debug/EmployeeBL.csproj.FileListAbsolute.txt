@@ -1,0 +1,13 @@
+C:\Users\YUVA\source\repos\ProjectDemoEMF\EmployeeBL\bin\Debug\EmployeeBL.dll
+C:\Users\YUVA\source\repos\ProjectDemoEMF\EmployeeBL\bin\Debug\EmployeeBL.pdb
+C:\Users\YUVA\source\repos\ProjectDemoEMF\EmployeeBL\bin\Debug\EmployeeBO.dll
+C:\Users\YUVA\source\repos\ProjectDemoEMF\EmployeeBL\bin\Debug\EmployeeDAL.dll
+C:\Users\YUVA\source\repos\ProjectDemoEMF\EmployeeBL\bin\Debug\EmployeeBO.pdb
+C:\Users\YUVA\source\repos\ProjectDemoEMF\EmployeeBL\bin\Debug\EmployeeDAL.pdb
+C:\Users\YUVA\source\repos\ProjectDemoEMF\EmployeeBL\obj\Debug\EmployeeBL.csproj.AssemblyReference.cache
+C:\Users\YUVA\source\repos\ProjectDemoEMF\EmployeeBL\obj\Debug\EmployeeBL.csproj.CoreCompileInputs.cache
+C:\Users\YUVA\source\repos\ProjectDemoEMF\EmployeeBL\obj\Debug\EmployeeBL.csproj.CopyComplete
+C:\Users\YUVA\source\repos\ProjectDemoEMF\EmployeeBL\obj\Debug\EmployeeBL.dll
+C:\Users\YUVA\source\repos\ProjectDemoEMF\EmployeeBL\obj\Debug\EmployeeBL.pdb
+C:\Users\YUVA\source\repos\ProjectDemoEMF\EmployeeBL\bin\Debug\EmployeeException.dll
+C:\Users\YUVA\source\repos\ProjectDemoEMF\EmployeeBL\bin\Debug\EmployeeException.pdb

@@ -1,0 +1,16 @@
+C:\Users\YUVA\source\repos\ProjectDemoEMF\ProjectDemoEMF\bin\Debug\ProjectDemoEMF.exe.config
+C:\Users\YUVA\source\repos\ProjectDemoEMF\ProjectDemoEMF\bin\Debug\ProjectDemoEMF.exe
+C:\Users\YUVA\source\repos\ProjectDemoEMF\ProjectDemoEMF\bin\Debug\ProjectDemoEMF.pdb
+C:\Users\YUVA\source\repos\ProjectDemoEMF\ProjectDemoEMF\bin\Debug\EmployeeBL.dll
+C:\Users\YUVA\source\repos\ProjectDemoEMF\ProjectDemoEMF\bin\Debug\EmployeeBO.dll
+C:\Users\YUVA\source\repos\ProjectDemoEMF\ProjectDemoEMF\bin\Debug\EmployeeDAL.dll
+C:\Users\YUVA\source\repos\ProjectDemoEMF\ProjectDemoEMF\bin\Debug\EmployeeBL.pdb
+C:\Users\YUVA\source\repos\ProjectDemoEMF\ProjectDemoEMF\bin\Debug\EmployeeBO.pdb
+C:\Users\YUVA\source\repos\ProjectDemoEMF\ProjectDemoEMF\bin\Debug\EmployeeDAL.pdb
+C:\Users\YUVA\source\repos\ProjectDemoEMF\ProjectDemoEMF\obj\Debug\ProjectDemoEMF.csproj.AssemblyReference.cache
+C:\Users\YUVA\source\repos\ProjectDemoEMF\ProjectDemoEMF\obj\Debug\ProjectDemoEMF.csproj.CoreCompileInputs.cache
+C:\Users\YUVA\source\repos\ProjectDemoEMF\ProjectDemoEMF\obj\Debug\ProjectDemoEMF.csproj.CopyComplete
+C:\Users\YUVA\source\repos\ProjectDemoEMF\ProjectDemoEMF\obj\Debug\ProjectDemoEMF.exe
+C:\Users\YUVA\source\repos\ProjectDemoEMF\ProjectDemoEMF\obj\Debug\ProjectDemoEMF.pdb
+C:\Users\YUVA\source\repos\ProjectDemoEMF\ProjectDemoEMF\bin\Debug\EmployeeException.dll
+C:\Users\YUVA\source\repos\ProjectDemoEMF\ProjectDemoEMF\bin\Debug\EmployeeException.pdb

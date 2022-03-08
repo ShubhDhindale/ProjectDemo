@@ -1,0 +1,11 @@
+C:\Users\YUVA\source\repos\ProjectDemoEMF\EmployeeDAL\bin\Debug\EmployeeDAL.dll
+C:\Users\YUVA\source\repos\ProjectDemoEMF\EmployeeDAL\bin\Debug\EmployeeDAL.pdb
+C:\Users\YUVA\source\repos\ProjectDemoEMF\EmployeeDAL\bin\Debug\EmployeeBO.dll
+C:\Users\YUVA\source\repos\ProjectDemoEMF\EmployeeDAL\bin\Debug\EmployeeBO.pdb
+C:\Users\YUVA\source\repos\ProjectDemoEMF\EmployeeDAL\obj\Debug\EmployeeDAL.csproj.AssemblyReference.cache
+C:\Users\YUVA\source\repos\ProjectDemoEMF\EmployeeDAL\obj\Debug\EmployeeDAL.csproj.CoreCompileInputs.cache
+C:\Users\YUVA\source\repos\ProjectDemoEMF\EmployeeDAL\obj\Debug\EmployeeDAL.csproj.CopyComplete
+C:\Users\YUVA\source\repos\ProjectDemoEMF\EmployeeDAL\obj\Debug\EmployeeDAL.dll
+C:\Users\YUVA\source\repos\ProjectDemoEMF\EmployeeDAL\obj\Debug\EmployeeDAL.pdb
+C:\Users\YUVA\source\repos\ProjectDemoEMF\EmployeeDAL\bin\Debug\EmployeeException.dll
+C:\Users\YUVA\source\repos\ProjectDemoEMF\EmployeeDAL\bin\Debug\EmployeeException.pdb

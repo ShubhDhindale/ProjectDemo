@@ -1,0 +1,6 @@
+C:\Users\YUVA\source\repos\ProjectDemoEMF\EmployeeBO\bin\Debug\EmployeeBO.dll
+C:\Users\YUVA\source\repos\ProjectDemoEMF\EmployeeBO\bin\Debug\EmployeeBO.pdb
+C:\Users\YUVA\source\repos\ProjectDemoEMF\EmployeeBO\obj\Debug\EmployeeBO.csproj.AssemblyReference.cache
+C:\Users\YUVA\source\repos\ProjectDemoEMF\EmployeeBO\obj\Debug\EmployeeBO.csproj.CoreCompileInputs.cache
+C:\Users\YUVA\source\repos\ProjectDemoEMF\EmployeeBO\obj\Debug\EmployeeBO.dll
+C:\Users\YUVA\source\repos\ProjectDemoEMF\EmployeeBO\obj\Debug\EmployeeBO.pdb

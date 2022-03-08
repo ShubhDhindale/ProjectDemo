@@ -1,0 +1,6 @@
+C:\Users\YUVA\source\repos\ProjectDemoEMF\EmployeeException\bin\Debug\EmployeeException.dll
+C:\Users\YUVA\source\repos\ProjectDemoEMF\EmployeeException\bin\Debug\EmployeeException.pdb
+C:\Users\YUVA\source\repos\ProjectDemoEMF\EmployeeException\obj\Debug\EmployeeException.csproj.AssemblyReference.cache
+C:\Users\YUVA\source\repos\ProjectDemoEMF\EmployeeException\obj\Debug\EmployeeException.csproj.CoreCompileInputs.cache
+C:\Users\YUVA\source\repos\ProjectDemoEMF\EmployeeException\obj\Debug\EmployeeException.dll
+C:\Users\YUVA\source\repos\ProjectDemoEMF\EmployeeException\obj\Debug\EmployeeException.pdb
